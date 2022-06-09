@@ -1,1 +1,3 @@
 hello.... welcome: we use cloning in the pull operation
+
+2 lines inserted
