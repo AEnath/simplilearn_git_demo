@@ -1,3 +1,10 @@
 Hello world! am practicing branching.. 
 
 Do you want to try it out as well?
+
+-----------------------------
+testing branch 2, modifying an existing file
+
+testing....
+testing....
+testing....
