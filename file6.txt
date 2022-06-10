@@ -3,3 +3,8 @@ hello!!
 I want to push a branch to the remote server
 
 and work wiuth that branch there. like a team mate something. Then finally merge the branch 
+
+I added some files to this from the remote server environmenbt
+
+user1: added skimmo
+user2; mpdified skimmo
